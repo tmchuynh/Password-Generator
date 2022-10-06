@@ -15,7 +15,8 @@ body {
 }
 
 h3,
-input[type="number" i] {
+input[type="number" i],
+.generator__btn {
     font-family: 'Gemunu Libre', sans-serif;
     letter-spacing: 0.15rem;
 }
